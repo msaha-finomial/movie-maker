@@ -1,7 +1,6 @@
 **/.vs
 **/obj/
 **/bin/
-packages/
 *.suo
 *.ccproj.user
 *.csproj.user
