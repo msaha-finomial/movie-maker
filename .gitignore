@@ -1,0 +1,14 @@
+**/.vs
+**/obj/
+**/bin/
+packages/
+*.suo
+*.ccproj.user
+*.csproj.user
+*.rptproj.user
+.idea
+*.iml
+# ignore all logs
+**/logs/
+**/Reports/UpgradeLog*.htm
+
